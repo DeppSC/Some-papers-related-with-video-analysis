@@ -16,6 +16,9 @@ In this repo, I collect some valuable papers related with video analysis for me.
 
 2.[UCF-101](www.crcv.ucf.edu/research/data-sets/human-actions/ucf101/)
 
+3. [Kinetics-700 dataset](https://deepmind.com/research/open-source/open-source-datasets/kinetics/)
+
+
 ## reference
 
 1.https://zhuanlan.zhihu.com/p/79521655
