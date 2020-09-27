@@ -10,11 +10,18 @@ In this repo, I collect some valuable papers related with video analysis for me.
 
 3.Temporal Pyramid Network for Action Recognition [paper](https://arxiv.org/pdf/2004.03548.pdf) [code](https://github.com/decisionforce/TPN)
 
+
 ## typical methods
+
+### classicial method
 
 1.[space-time interest points](Laptev I. On space-time interest points[J]. International journal of computer vision, 2005, 64(2-3): 107-123.)
 
 2.[dense-trajectories](Wang H, Kläser A, Schmid C, et al. Dense trajectories and motion boundary descriptors for action recognition[J]. International journal of computer vision, 2013, 103(1): 60-79.)
+
+### deep learning 
+
+1.3D conv
 
 
 ## dataset list
