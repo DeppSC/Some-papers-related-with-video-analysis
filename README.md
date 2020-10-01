@@ -23,6 +23,7 @@ In this repo, I collect some valuable papers related with video analysis for me.
 
 1.3D conv
 
+2.RNN(lstm)
 
 ## dataset list
 
