@@ -27,6 +27,8 @@ In this repo, I collect some valuable papers related with video analysis for me.
 
 3.双流法(two-stream)
 
+4.其他
+
 ## dataset list
 
 1.[HMDB-51](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/#dataset)
